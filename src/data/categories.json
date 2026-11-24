@@ -1,0 +1,42 @@
+[
+  {
+    "id": "economy",
+    "name": "economy",
+    "description": "Climatisation, assistance et kilométrage inclus."
+  },
+  {
+    "id": "compact",
+    "name": "compact",
+    "description": "Climatisation, assistance et kilométrage inclus."
+  },
+  {
+    "id": "sedan",
+    "name": "sedan",
+    "description": "Climatisation, assistance et kilométrage inclus."
+  },
+  {
+    "id": "suv",
+    "name": "suv",
+    "description": "Climatisation, assistance et kilométrage inclus."
+  },
+  {
+    "id": "premium",
+    "name": "premium",
+    "description": "Climatisation, assistance et kilométrage inclus."
+  },
+  {
+    "id": "family",
+    "name": "family",
+    "description": "Climatisation, assistance et kilométrage inclus."
+  },
+  {
+    "id": "automatic",
+    "name": "automatic",
+    "description": "Climatisation, assistance et kilométrage inclus."
+  },
+  {
+    "id": "offroad",
+    "name": "offroad",
+    "description": "Climatisation, assistance et kilométrage inclus."
+  }
+]

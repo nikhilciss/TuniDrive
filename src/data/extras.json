@@ -1,0 +1,37 @@
+[
+  {
+    "id": "basicInsurance",
+    "name": "basicInsurance",
+    "price": 0
+  },
+  {
+    "id": "premiumInsurance",
+    "name": "premiumInsurance",
+    "price": 30
+  },
+  {
+    "id": "gps",
+    "name": "gps",
+    "price": 8
+  },
+  {
+    "id": "childSeat",
+    "name": "childSeat",
+    "price": 10
+  },
+  {
+    "id": "additionalDriver",
+    "name": "additionalDriver",
+    "price": 15
+  },
+  {
+    "id": "roadside",
+    "name": "roadside",
+    "price": 0
+  },
+  {
+    "id": "airportDelivery",
+    "name": "airportDelivery",
+    "price": 25
+  }
+]

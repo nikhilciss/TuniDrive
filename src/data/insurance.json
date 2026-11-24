@@ -1,0 +1,12 @@
+[
+  {
+    "id": "basic",
+    "price": 0,
+    "deposit": 500
+  },
+  {
+    "id": "premium",
+    "price": 30,
+    "deposit": 200
+  }
+]

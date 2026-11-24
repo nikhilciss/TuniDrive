@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q1",
+    "questionKey": "faqQ1",
+    "answerKey": "faqA1"
+  },
+  {
+    "id": "q2",
+    "questionKey": "faqQ2",
+    "answerKey": "faqA2"
+  },
+  {
+    "id": "q3",
+    "questionKey": "faqQ3",
+    "answerKey": "faqA3"
+  },
+  {
+    "id": "q4",
+    "questionKey": "faqQ4",
+    "answerKey": "faqA4"
+  },
+  {
+    "id": "q5",
+    "questionKey": "faqQ5",
+    "answerKey": "faqA5"
+  },
+  {
+    "id": "q6",
+    "questionKey": "faqQ6",
+    "answerKey": "faqA6"
+  },
+  {
+    "id": "q7",
+    "questionKey": "faqQ7",
+    "answerKey": "faqA7"
+  },
+  {
+    "id": "q8",
+    "questionKey": "faqQ8",
+    "answerKey": "faqA8"
+  },
+  {
+    "id": "q9",
+    "questionKey": "faqQ9",
+    "answerKey": "faqA9"
+  },
+  {
+    "id": "q10",
+    "questionKey": "faqQ10",
+    "answerKey": "faqA10"
+  },
+  {
+    "id": "q11",
+    "questionKey": "faqQ11",
+    "answerKey": "faqA11"
+  },
+  {
+    "id": "q12",
+    "questionKey": "faqQ12",
+    "answerKey": "faqA12"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "PAY-1001",
+    "bookingId": "TD-26001",
+    "customerId": "c1",
+    "amount": 240.75,
+    "method": "pickup",
+    "status": "paid",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "PAY-1002",
+    "bookingId": "TD-26002",
+    "customerId": "c2",
+    "amount": 321.0,
+    "method": "card",
+    "status": "pending",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "PAY-1003",
+    "bookingId": "TD-26003",
+    "customerId": "c3",
+    "amount": 508.25,
+    "method": "cash",
+    "status": "paid",
+    "date": "2026-12-01"
+  },
+  {
+    "id": "PAY-1004",
+    "bookingId": "TD-26004",
+    "customerId": "c4",
+    "amount": 449.4,
+    "method": "transfer",
+    "status": "paid",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "PAY-1005",
+    "bookingId": "TD-26005",
+    "customerId": "c5",
+    "amount": 786.45,
+    "method": "pickup",
+    "status": "refunded",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "PAY-1006",
+    "bookingId": "TD-26006",
+    "customerId": "c6",
+    "amount": 353.1,
+    "method": "card",
+    "status": "paid",
+    "date": "2026-03-10"
+  },
+  {
+    "id": "PAY-1007",
+    "bookingId": "TD-26007",
+    "customerId": "c7",
+    "amount": 363.8,
+    "method": "cash",
+    "status": "pending",
+    "date": "2026-11-26"
+  },
+  {
+    "id": "PAY-1008",
+    "bookingId": "TD-26008",
+    "customerId": "c8",
+    "amount": 615.25,
+    "method": "transfer",
+    "status": "paid",
+    "date": "2026-12-02"
+  },
+  {
+    "id": "PAY-1009",
+    "bookingId": "TD-26009",
+    "customerId": "c9",
+    "amount": 642.0,
+    "method": "pickup",
+    "status": "paid",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "PAY-1010",
+    "bookingId": "TD-26010",
+    "customerId": "c10",
+    "amount": 1048.6,
+    "method": "card",
+    "status": "refunded",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "PAY-1011",
+    "bookingId": "TD-26011",
+    "customerId": "c11",
+    "amount": 385.2,
+    "method": "cash",
+    "status": "paid",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "PAY-1012",
+    "bookingId": "TD-26012",
+    "customerId": "c12",
+    "amount": 663.4,
+    "method": "transfer",
+    "status": "pending",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "PAY-1013",
+    "bookingId": "TD-26013",
+    "customerId": "c13",
+    "amount": 963.0,
+    "method": "pickup",
+    "status": "paid",
+    "date": "2026-12-03"
+  },
+  {
+    "id": "PAY-1014",
+    "bookingId": "TD-26014",
+    "customerId": "c14",
+    "amount": 1540.8,
+    "method": "card",
+    "status": "paid",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "PAY-1015",
+    "bookingId": "TD-26015",
+    "customerId": "c15",
+    "amount": 1760.15,
+    "method": "cash",
+    "status": "refunded",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "PAY-1016",
+    "bookingId": "TD-26016",
+    "customerId": "c1",
+    "amount": 802.5,
+    "method": "transfer",
+    "status": "paid",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "PAY-1017",
+    "bookingId": "TD-26017",
+    "customerId": "c2",
+    "amount": 1669.2,
+    "method": "pickup",
+    "status": "pending",
+    "date": "2026-11-28"
+  },
+  {
+    "id": "PAY-1018",
+    "bookingId": "TD-26018",
+    "customerId": "c3",
+    "amount": 2193.5,
+    "method": "card",
+    "status": "paid",
+    "date": "2026-12-04"
+  },
+  {
+    "id": "PAY-1019",
+    "bookingId": "TD-26019",
+    "customerId": "c4",
+    "amount": 2054.4,
+    "method": "cash",
+    "status": "paid",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "PAY-1020",
+    "bookingId": "TD-26020",
+    "customerId": "c5",
+    "amount": 3370.5,
+    "method": "transfer",
+    "status": "refunded",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "PAY-1021",
+    "bookingId": "TD-26021",
+    "customerId": "c6",
+    "amount": 240.75,
+    "method": "pickup",
+    "status": "paid",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "PAY-1022",
+    "bookingId": "TD-26022",
+    "customerId": "c7",
+    "amount": 321.0,
+    "method": "card",
+    "status": "pending",
+    "date": "2026-11-29"
+  },
+  {
+    "id": "PAY-1023",
+    "bookingId": "TD-26023",
+    "customerId": "c8",
+    "amount": 508.25,
+    "method": "cash",
+    "status": "paid",
+    "date": "2026-12-05"
+  },
+  {
+    "id": "PAY-1024",
+    "bookingId": "TD-26024",
+    "customerId": "c9",
+    "amount": 1605.0,
+    "method": "transfer",
+    "status": "paid",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "PAY-1025",
+    "bookingId": "TD-26025",
+    "customerId": "c10",
+    "amount": 786.45,
+    "method": "pickup",
+    "status": "refunded",
+    "date": "2026-10-12"
+  }
+]

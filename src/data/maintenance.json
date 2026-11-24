@@ -1,0 +1,102 @@
+[
+  {
+    "id": "M-1",
+    "vehicleId": "v1",
+    "type": "oil",
+    "start": "2026-11-20",
+    "end": "2026-11-21",
+    "cost": 80,
+    "status": "completed",
+    "notes": "Contrôle programmé dans notre atelier partenaire fictif."
+  },
+  {
+    "id": "M-2",
+    "vehicleId": "v3",
+    "type": "tyres",
+    "start": "2026-11-21",
+    "end": "2026-11-22",
+    "cost": 115,
+    "status": "completed",
+    "notes": "Contrôle programmé dans notre atelier partenaire fictif."
+  },
+  {
+    "id": "M-3",
+    "vehicleId": "v5",
+    "type": "inspection",
+    "start": "2026-11-22",
+    "end": "2026-11-23",
+    "cost": 150,
+    "status": "completed",
+    "notes": "Contrôle programmé dans notre atelier partenaire fictif."
+  },
+  {
+    "id": "M-4",
+    "vehicleId": "v7",
+    "type": "service",
+    "start": "2026-11-23",
+    "end": "2026-11-24",
+    "cost": 185,
+    "status": "completed",
+    "notes": "Contrôle programmé dans notre atelier partenaire fictif."
+  },
+  {
+    "id": "M-5",
+    "vehicleId": "v20",
+    "type": "cleaning",
+    "start": "2026-11-24",
+    "end": "2026-11-25",
+    "cost": 220,
+    "status": "scheduled",
+    "notes": "Contrôle programmé dans notre atelier partenaire fictif."
+  },
+  {
+    "id": "M-6",
+    "vehicleId": "v11",
+    "type": "insurance",
+    "start": "2026-11-25",
+    "end": "2026-11-26",
+    "cost": 255,
+    "status": "scheduled",
+    "notes": "Contrôle programmé dans notre atelier partenaire fictif."
+  },
+  {
+    "id": "M-7",
+    "vehicleId": "v13",
+    "type": "technical",
+    "start": "2026-11-26",
+    "end": "2026-11-27",
+    "cost": 290,
+    "status": "scheduled",
+    "notes": "Contrôle programmé dans notre atelier partenaire fictif."
+  },
+  {
+    "id": "M-8",
+    "vehicleId": "v15",
+    "type": "oil",
+    "start": "2026-11-27",
+    "end": "2026-11-28",
+    "cost": 325,
+    "status": "scheduled",
+    "notes": "Contrôle programmé dans notre atelier partenaire fictif."
+  },
+  {
+    "id": "M-9",
+    "vehicleId": "v17",
+    "type": "tyres",
+    "start": "2026-11-28",
+    "end": "2026-11-29",
+    "cost": 360,
+    "status": "scheduled",
+    "notes": "Contrôle programmé dans notre atelier partenaire fictif."
+  },
+  {
+    "id": "M-10",
+    "vehicleId": "v19",
+    "type": "inspection",
+    "start": "2026-11-29",
+    "end": "2026-11-30",
+    "cost": 395,
+    "status": "scheduled",
+    "notes": "Contrôle programmé dans notre atelier partenaire fictif."
+  }
+]

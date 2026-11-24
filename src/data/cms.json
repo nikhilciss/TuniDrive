@@ -1,0 +1,87 @@
+{
+  "blog": [
+    {
+      "id": "post1",
+      "title": "coastOffer",
+      "body": "aboutText",
+      "status": "published",
+      "image": "/assets/hero.webp"
+    },
+    {
+      "id": "post2",
+      "title": "familyOffer",
+      "body": "longText",
+      "status": "published",
+      "image": "/assets/location-4.svg"
+    }
+  ],
+  "menus": [
+    {
+      "id": "home",
+      "title": "home",
+      "link": "/",
+      "status": "published"
+    },
+    {
+      "id": "fleet",
+      "title": "fleet",
+      "link": "/fleet",
+      "status": "published"
+    },
+    {
+      "id": "locations",
+      "title": "locations",
+      "link": "/locations",
+      "status": "published"
+    },
+    {
+      "id": "offers",
+      "title": "offers",
+      "link": "/offers",
+      "status": "published"
+    },
+    {
+      "id": "about",
+      "title": "about",
+      "link": "/about",
+      "status": "published"
+    }
+  ],
+  "footer": [
+    {
+      "id": "terms",
+      "title": "terms",
+      "link": "/terms",
+      "status": "published"
+    },
+    {
+      "id": "privacy",
+      "title": "privacy",
+      "link": "/privacy",
+      "status": "published"
+    },
+    {
+      "id": "cancellation",
+      "title": "cancellation",
+      "link": "/cancellation",
+      "status": "published"
+    }
+  ],
+  "contact": [
+    {
+      "id": "contact",
+      "name": "TuniDrive",
+      "email": "contact@tunidrive.demo",
+      "phone": "+216 XX XXX XXX",
+      "address": "Tunis, Tunisie (demo)"
+    }
+  ],
+  "seo": [
+    {
+      "id": "home",
+      "title": "TuniDrive — Your Journey Starts Here",
+      "description": "Location de voitures en Tunisie — démonstration",
+      "status": "published"
+    }
+  ]
+}

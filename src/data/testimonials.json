@@ -1,0 +1,44 @@
+[
+  {
+    "id": "t1",
+    "name": "Camille M.",
+    "city": "Paris",
+    "rating": 5,
+    "textKey": "review1"
+  },
+  {
+    "id": "t2",
+    "name": "Youssef B.",
+    "city": "Tunis",
+    "rating": 5,
+    "textKey": "review2"
+  },
+  {
+    "id": "t3",
+    "name": "Sarah L.",
+    "city": "Lyon",
+    "rating": 5,
+    "textKey": "review3"
+  },
+  {
+    "id": "t4",
+    "name": "Adam T.",
+    "city": "Bruxelles",
+    "rating": 5,
+    "textKey": "review4"
+  },
+  {
+    "id": "t5",
+    "name": "Emma B.",
+    "city": "Marseille",
+    "rating": 5,
+    "textKey": "review5"
+  },
+  {
+    "id": "t6",
+    "name": "Nour H.",
+    "city": "Montréal",
+    "rating": 5,
+    "textKey": "review6"
+  }
+]

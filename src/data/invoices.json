@@ -1,0 +1,252 @@
+[
+  {
+    "id": "INV-1001",
+    "bookingId": "TD-26001",
+    "customerId": "c1",
+    "date": "2026-01-10",
+    "subtotal": 225,
+    "tax": 15.75,
+    "total": 240.75,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1002",
+    "bookingId": "TD-26002",
+    "customerId": "c2",
+    "date": "2026-11-25",
+    "subtotal": 300,
+    "tax": 21.0,
+    "total": 321.0,
+    "status": "pending"
+  },
+  {
+    "id": "INV-1003",
+    "bookingId": "TD-26003",
+    "customerId": "c3",
+    "date": "2026-12-01",
+    "subtotal": 475,
+    "tax": 33.25,
+    "total": 508.25,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1004",
+    "bookingId": "TD-26004",
+    "customerId": "c4",
+    "date": "2026-11-22",
+    "subtotal": 420,
+    "tax": 29.4,
+    "total": 449.4,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1005",
+    "bookingId": "TD-26005",
+    "customerId": "c5",
+    "date": "2026-02-12",
+    "subtotal": 735,
+    "tax": 51.45,
+    "total": 786.45,
+    "status": "refunded"
+  },
+  {
+    "id": "INV-1006",
+    "bookingId": "TD-26006",
+    "customerId": "c6",
+    "date": "2026-03-10",
+    "subtotal": 330,
+    "tax": 23.1,
+    "total": 353.1,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1007",
+    "bookingId": "TD-26007",
+    "customerId": "c7",
+    "date": "2026-11-26",
+    "subtotal": 340,
+    "tax": 23.8,
+    "total": 363.8,
+    "status": "pending"
+  },
+  {
+    "id": "INV-1008",
+    "bookingId": "TD-26008",
+    "customerId": "c8",
+    "date": "2026-12-02",
+    "subtotal": 575,
+    "tax": 40.25,
+    "total": 615.25,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1009",
+    "bookingId": "TD-26009",
+    "customerId": "c9",
+    "date": "2026-11-22",
+    "subtotal": 600,
+    "tax": 42.0,
+    "total": 642.0,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1010",
+    "bookingId": "TD-26010",
+    "customerId": "c10",
+    "date": "2026-04-12",
+    "subtotal": 980,
+    "tax": 68.6,
+    "total": 1048.6,
+    "status": "refunded"
+  },
+  {
+    "id": "INV-1011",
+    "bookingId": "TD-26011",
+    "customerId": "c11",
+    "date": "2026-05-10",
+    "subtotal": 360,
+    "tax": 25.2,
+    "total": 385.2,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1012",
+    "bookingId": "TD-26012",
+    "customerId": "c12",
+    "date": "2026-11-27",
+    "subtotal": 620,
+    "tax": 43.4,
+    "total": 663.4,
+    "status": "pending"
+  },
+  {
+    "id": "INV-1013",
+    "bookingId": "TD-26013",
+    "customerId": "c13",
+    "date": "2026-12-03",
+    "subtotal": 900,
+    "tax": 63.0,
+    "total": 963.0,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1014",
+    "bookingId": "TD-26014",
+    "customerId": "c14",
+    "date": "2026-11-22",
+    "subtotal": 1440,
+    "tax": 100.8,
+    "total": 1540.8,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1015",
+    "bookingId": "TD-26015",
+    "customerId": "c15",
+    "date": "2026-06-12",
+    "subtotal": 1645,
+    "tax": 115.15,
+    "total": 1760.15,
+    "status": "refunded"
+  },
+  {
+    "id": "INV-1016",
+    "bookingId": "TD-26016",
+    "customerId": "c1",
+    "date": "2026-07-10",
+    "subtotal": 750,
+    "tax": 52.5,
+    "total": 802.5,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1017",
+    "bookingId": "TD-26017",
+    "customerId": "c2",
+    "date": "2026-11-28",
+    "subtotal": 1560,
+    "tax": 109.2,
+    "total": 1669.2,
+    "status": "pending"
+  },
+  {
+    "id": "INV-1018",
+    "bookingId": "TD-26018",
+    "customerId": "c3",
+    "date": "2026-12-04",
+    "subtotal": 2050,
+    "tax": 143.5,
+    "total": 2193.5,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1019",
+    "bookingId": "TD-26019",
+    "customerId": "c4",
+    "date": "2026-11-22",
+    "subtotal": 1920,
+    "tax": 134.4,
+    "total": 2054.4,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1020",
+    "bookingId": "TD-26020",
+    "customerId": "c5",
+    "date": "2026-08-12",
+    "subtotal": 3150,
+    "tax": 220.5,
+    "total": 3370.5,
+    "status": "refunded"
+  },
+  {
+    "id": "INV-1021",
+    "bookingId": "TD-26021",
+    "customerId": "c6",
+    "date": "2026-09-10",
+    "subtotal": 225,
+    "tax": 15.75,
+    "total": 240.75,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1022",
+    "bookingId": "TD-26022",
+    "customerId": "c7",
+    "date": "2026-11-29",
+    "subtotal": 300,
+    "tax": 21.0,
+    "total": 321.0,
+    "status": "pending"
+  },
+  {
+    "id": "INV-1023",
+    "bookingId": "TD-26023",
+    "customerId": "c8",
+    "date": "2026-12-05",
+    "subtotal": 475,
+    "tax": 33.25,
+    "total": 508.25,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1024",
+    "bookingId": "TD-26024",
+    "customerId": "c9",
+    "date": "2026-11-22",
+    "subtotal": 1500,
+    "tax": 105.0,
+    "total": 1605.0,
+    "status": "paid"
+  },
+  {
+    "id": "INV-1025",
+    "bookingId": "TD-26025",
+    "customerId": "c10",
+    "date": "2026-10-12",
+    "subtotal": 735,
+    "tax": 51.45,
+    "total": 786.45,
+    "status": "refunded"
+  }
+]

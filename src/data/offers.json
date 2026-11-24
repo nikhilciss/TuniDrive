@@ -1,0 +1,50 @@
+[
+  {
+    "id": "o1",
+    "code": "MARHABA10",
+    "discount": 10,
+    "titleKey": "welcomeOffer",
+    "image": "/assets/hero.webp",
+    "end": "2027-03-31"
+  },
+  {
+    "id": "o2",
+    "code": "WEEK15",
+    "discount": 15,
+    "titleKey": "weekOffer",
+    "image": "/assets/hammamet.webp",
+    "end": "2027-03-31"
+  },
+  {
+    "id": "o3",
+    "code": "MONTH25",
+    "discount": 25,
+    "titleKey": "monthOffer",
+    "image": "/assets/djerba.webp",
+    "end": "2027-03-31"
+  },
+  {
+    "id": "o4",
+    "code": "EARLY10",
+    "discount": 10,
+    "titleKey": "earlyOffer",
+    "image": "/assets/luxury.webp",
+    "end": "2027-03-31"
+  },
+  {
+    "id": "o5",
+    "code": "COAST12",
+    "discount": 12,
+    "titleKey": "coastOffer",
+    "image": "/assets/hammamet.webp",
+    "end": "2027-03-31"
+  },
+  {
+    "id": "o6",
+    "code": "FAMILY15",
+    "discount": 15,
+    "titleKey": "familyOffer",
+    "image": "/assets/djerba.webp",
+    "end": "2027-03-31"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "about",
+    "title": "about",
+    "status": "published"
+  },
+  {
+    "id": "airport",
+    "title": "airport",
+    "status": "published"
+  },
+  {
+    "id": "long-term",
+    "title": "long-term",
+    "status": "published"
+  },
+  {
+    "id": "requirements",
+    "title": "requirements",
+    "status": "published"
+  },
+  {
+    "id": "insurance",
+    "title": "insurance",
+    "status": "published"
+  },
+  {
+    "id": "contact",
+    "title": "contact",
+    "status": "published"
+  },
+  {
+    "id": "terms",
+    "title": "terms",
+    "status": "published"
+  },
+  {
+    "id": "privacy",
+    "title": "privacy",
+    "status": "published"
+  },
+  {
+    "id": "cancellation",
+    "title": "cancellation",
+    "status": "published"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "l1",
+    "name": "Tunis-Carthage International Airport",
+    "city": "Tunis",
+    "address": "10, Avenue du Tourisme (adresse fictive)",
+    "phone": "+216 XX XXX XXX",
+    "email": "locations@tunidrive.demo",
+    "hours": "24/7",
+    "airport": true,
+    "image": "/assets/airport.webp",
+    "categories": ["economy", "compact", "sedan", "suv", "premium", "family"]
+  },
+  {
+    "id": "l2",
+    "name": "Tunis Centre",
+    "city": "Tunis",
+    "address": "12, Avenue du Tourisme (adresse fictive)",
+    "phone": "+216 XX XXX XXX",
+    "email": "locations@tunidrive.demo",
+    "hours": "08:00 – 20:00",
+    "airport": false,
+    "image": "/assets/location-2.svg",
+    "categories": ["economy", "compact", "sedan", "suv", "premium", "family"]
+  },
+  {
+    "id": "l3",
+    "name": "La Marsa",
+    "city": "La Marsa",
+    "address": "14, Avenue du Tourisme (adresse fictive)",
+    "phone": "+216 XX XXX XXX",
+    "email": "locations@tunidrive.demo",
+    "hours": "08:00 – 20:00",
+    "airport": false,
+    "image": "/assets/location-3.svg",
+    "categories": ["economy", "compact", "sedan", "suv", "premium", "family"]
+  },
+  {
+    "id": "l4",
+    "name": "Hammamet",
+    "city": "Hammamet",
+    "address": "16, Avenue du Tourisme (adresse fictive)",
+    "phone": "+216 XX XXX XXX",
+    "email": "locations@tunidrive.demo",
+    "hours": "08:00 – 20:00",
+    "airport": false,
+    "image": "/assets/hammamet.webp",
+    "categories": ["economy", "compact", "sedan", "suv", "premium", "family"]
+  },
+  {
+    "id": "l5",
+    "name": "Sousse",
+    "city": "Sousse",
+    "address": "18, Avenue du Tourisme (adresse fictive)",
+    "phone": "+216 XX XXX XXX",
+    "email": "locations@tunidrive.demo",
+    "hours": "08:00 – 20:00",
+    "airport": false,
+    "image": "/assets/location-5.svg",
+    "categories": ["economy", "compact", "sedan", "suv", "premium", "family"]
+  },
+  {
+    "id": "l6",
+    "name": "Monastir Habib Bourguiba Airport",
+    "city": "Monastir",
+    "address": "20, Avenue du Tourisme (adresse fictive)",
+    "phone": "+216 XX XXX XXX",
+    "email": "locations@tunidrive.demo",
+    "hours": "24/7",
+    "airport": true,
+    "image": "/assets/airport.webp",
+    "categories": ["economy", "compact", "sedan", "suv", "premium", "family"]
+  },
+  {
+    "id": "l7",
+    "name": "Enfidha-Hammamet Airport",
+    "city": "Enfidha",
+    "address": "22, Avenue du Tourisme (adresse fictive)",
+    "phone": "+216 XX XXX XXX",
+    "email": "locations@tunidrive.demo",
+    "hours": "24/7",
+    "airport": true,
+    "image": "/assets/airport.webp",
+    "categories": ["economy", "compact", "sedan", "suv", "premium", "family"]
+  },
+  {
+    "id": "l8",
+    "name": "Djerba-Zarzis Airport",
+    "city": "Djerba",
+    "address": "24, Avenue du Tourisme (adresse fictive)",
+    "phone": "+216 XX XXX XXX",
+    "email": "locations@tunidrive.demo",
+    "hours": "24/7",
+    "airport": true,
+    "image": "/assets/djerba.webp",
+    "categories": ["economy", "compact", "sedan", "suv", "premium", "family"]
+  },
+  {
+    "id": "l9",
+    "name": "Sfax",
+    "city": "Sfax",
+    "address": "26, Avenue du Tourisme (adresse fictive)",
+    "phone": "+216 XX XXX XXX",
+    "email": "locations@tunidrive.demo",
+    "hours": "08:00 – 20:00",
+    "airport": false,
+    "image": "/assets/location-9.svg",
+    "categories": ["economy", "compact", "sedan", "suv", "premium", "family"]
+  }
+]

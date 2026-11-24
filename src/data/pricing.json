@@ -1,0 +1,51 @@
+[
+  {
+    "id": "PR-1",
+    "name": "summer",
+    "adjustment": 25,
+    "start": "2026-06-01",
+    "end": "2026-08-31"
+  },
+  {
+    "id": "PR-2",
+    "name": "winter",
+    "adjustment": -10,
+    "start": "2026-11-01",
+    "end": "2027-02-28"
+  },
+  {
+    "id": "PR-3",
+    "name": "holiday",
+    "adjustment": 15,
+    "start": "2026-12-20",
+    "end": "2027-01-05"
+  },
+  {
+    "id": "PR-4",
+    "name": "weekend",
+    "adjustment": -5,
+    "start": "2026-01-01",
+    "end": "2026-12-31"
+  },
+  {
+    "id": "PR-5",
+    "name": "early",
+    "adjustment": -10,
+    "start": "2026-01-01",
+    "end": "2026-12-31"
+  },
+  {
+    "id": "PR-6",
+    "name": "weekly",
+    "adjustment": -15,
+    "start": "2026-01-01",
+    "end": "2026-12-31"
+  },
+  {
+    "id": "PR-7",
+    "name": "monthly",
+    "adjustment": -25,
+    "start": "2026-01-01",
+    "end": "2026-12-31"
+  }
+]
